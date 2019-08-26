@@ -47,6 +47,115 @@ p {
     width: 255%;
     padding: 25px;
 }
+#overlay1{
+    font-family: 'Anton', sans-serif;
+    display:none;
+    color: blue;
+    background-color: white;
+    opacity: 0.5;
+    position: absolute;
+    top:0px;
+    left:42px;
+    width:200px;
+    height:200px;
+   padding: 30%;
+   }
+
+#overlay2{
+    font-family: 'Anton', sans-serif;
+    display:none;
+    color: blue;
+    background-color: white;
+    opacity: 0.5;
+    position: absolute;
+    top:0px;
+    left:42px;
+    width:200px;
+    height:200px;
+   padding: 30%;
+   }
+   
+#overlay3{
+    font-family: 'Anton', sans-serif;
+    display:none;
+    color: blue;
+    background-color: white;
+    opacity: 0.5;
+    position: absolute;
+    top:0px;
+    left:42px;
+    width:200px;
+    height:200px;
+   padding: 30%;
+   }
+#overlay4{
+    font-family: 'Anton', sans-serif;
+    display:none;
+    color: blue;
+    background-color: white;
+    opacity: 0.5;
+    position: absolute;
+    top:0px;
+    left:42px;
+    width:200px;
+    height:200px;
+   padding: 30%;
+   }
+   #overlay5{
+    font-family: 'Anton', sans-serif;
+    display:none;
+    color: blue;
+    background-color: white;
+    opacity: 0.5;
+    position: absolute;
+    top:0px;
+    left:42px;
+    width:200px;
+    height:200px;
+   padding: 30%;
+   }
+   #overlay6{
+    font-family: 'Anton', sans-serif;
+    display:none;
+    color: blue;
+    background-color: white;
+    opacity: 0.5;
+    position: absolute;
+    top:0px;
+    left:42px;
+    width:200px;
+    height:200px;
+   padding: 30%;
+   }
+   #overlay7{
+    font-family: 'Anton', sans-serif;
+    display:none;
+    color: blue;
+    background-color: white;
+    opacity: 0.5;
+    position: absolute;
+    top:0px;
+    left:42px;
+    width:200px;
+    height:200px;
+   padding: 30%;
+   }
+   #overlay8{
+    font-family: 'Anton', sans-serif;
+    display:none;
+    color: blue;
+    background-color: white;
+    opacity: 0.5;
+    position: absolute;
+    top:0px;
+    left:42px;
+    width:200px;
+    height:200px;
+   padding: 30%;
+   }
+
+
+
 .contactus {
     background-image: url(../img/c_image.jpg);
     background-size: cover;
@@ -57,7 +166,17 @@ p {
     font-family: 'Roboto', sans-serif;
     padding-top: 200px;
     position: relative;
+    margin-block-start: 10px;
 }
+
 #design {
     display: none;
+}
+#development {
+    display: none;
+    text-align: center;
+}
+#products {
+    display: none;
+    text-align: center;
 }
