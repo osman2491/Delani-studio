@@ -1,12 +1,18 @@
+body {
+    overflow-x: hidden;
+    margin: 0px;
+    padding: 0;
+}
 .welcome {
     background-image: url(../img/h_img.jpg);
-    background-size: 100%;
+    background-size: cover;
     background-repeat: no-repeat;
-    height: 350px;
+    height: 100%;
     text-align: center;
     color: whitesmoke;
     font-family: 'Roboto', sans-serif;
-    padding-top: 100px;
+    padding-top: 200px;
+    position: relative;
 } 
 .about {
     text-align: center;
@@ -20,7 +26,6 @@
     color: whitesmoke;
     font-family: 'Roboto', sans-serif;
     padding-top: 70px;
-    width: 100%;
 }
 h1 {
     font-size: 40px;
@@ -43,5 +48,16 @@ p {
     padding: 25px;
 }
 .contactus {
-    background-image: url(img/c_image.jpg);
+    background-image: url(../img/c_image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 200px;
+    position: relative;
+}
+#design {
+    display: none;
 }
