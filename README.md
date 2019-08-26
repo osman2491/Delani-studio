@@ -1,19 +1,19 @@
-##IP3
+## IP3
 This is for delani studio, landing page, 25/08/2018 By Osman Mohamed
 
-##Description
+## Description
 This is application is called delani studio. THe main page(delani studio)
 
-##Setup/Installation Requirements
+## Setup/Installation Requirements
 Make sure your computer has an editor you can use atom or Visual Studio(preferred), sublime text or notepad++ You can view it using a browser such as chrome and mozilla firefox You can use githubs gh-pages to host the website on your computer Since it made using only HTML and CSS it should be easy use, install and Edit Fork and enjoy There is no database or server setup for this code hence it should be smooth and easy to use. View on Github. Known Bugs There are no known bugs for this web application
 
-##Technologies Used
+## Technologies Used
 HTML CSS javascript Visual Studio Code bootstrap,jQuery
 
-###Support and contact details
+## Support and contact details
 For more information call +254724912157 or Email me osman67239121@gmail.com
 
-License.MIT License
+### License.MIT License
 
 Copyright (c) 2019 John Mutavi
 
