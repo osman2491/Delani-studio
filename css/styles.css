@@ -42,6 +42,10 @@ p {
     width: 25%;
     padding: 50px;
 }
+
+.container{
+    padding-left: 100px;
+}
 .portone {
     float: left;
     width: 255%;
@@ -179,4 +183,9 @@ p {
 #products {
     display: none;
     text-align: center;
+}
+#social{
+    position: center;
+    width: 3000px;
+    padding: 50px;
 }
